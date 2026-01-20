@@ -10,6 +10,7 @@ Built with **Next.js**, **FastAPI**, and **PydanticAI**, deployed using **Vercel
 Frontend: https://study-assistant-frontend.vercel.app
 
 Backend API Docs: https://study-assistant-backend.onrender.com/docs
+
 ---
 
 ##  Features
